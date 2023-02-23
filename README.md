@@ -21,6 +21,10 @@ To install and run the project, you will need to have Node.js and npm installed 
 4. Start the development server:
 `npm run dev`
 
+# Live Demo
+
+You can try out a live demo of the project at [Live demo](https://login-omega-eight.vercel.app/).
+
 # Usage
 
 To log in to the application, enter a valid email and password combination and click the "Log In" button. 
